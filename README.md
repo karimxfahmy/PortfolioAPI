@@ -332,7 +332,17 @@ This project was created as an internship task. If you'd like to suggest improve
 
 ## 📄 License
 
-This project was developed as part of an internship at InternIntelligence.
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+This project was created for educational purposes as part of the **InternIntelligence** internship program.
+
+---
+
+## 👤 Author
+
+Developed by **Karim Fahmy** for **InternIntelligence** as part of the Java Development Internship program.
+
+---
 
 ## 📧 Contact
 
